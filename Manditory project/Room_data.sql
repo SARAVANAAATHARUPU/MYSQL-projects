@@ -1,0 +1,6 @@
+ INSERT INTO room VALUES ('1', 'H111', 'S', 72.00);
+ INSERT INTO room VALUES ('2', 'H112', 'M', 150.00);
+ INSERT INTO room VALUES ('3', 'H113', 'M', 150.00);
+ INSERT INTO room VALUES ('4', 'H114', 'S', 72.00);
+ INSERT INTO room VALUES ('5', 'H115', 'S', 72.00);
+
